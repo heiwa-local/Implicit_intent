@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RPI_Practice_8_1</string>
+    <string name="Rbtn_url">Веб-адрес</string>
+    <string name="Rbtn_map">Геоточка</string>
+    <string name="Rbtn_phone">Номер телефона</string>
+    <string name="Btn_exe">Вызов</string>
+</resources>
